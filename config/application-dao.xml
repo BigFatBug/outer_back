@@ -19,6 +19,7 @@ http://www.springframework.org/schema/aop
 http://www.springframework.org/schema/aop/spring-aop.xsd">
 
 <!-- 测一下amend -->
+<!-- -->
 <!-- 加载数据库连接的资源文件 -->
 <context:property-placeholder location="classpath:jdbc.properties"/>
 <!-- 自动注入dao层 -->
